@@ -1,0 +1,5 @@
+D:\cours B3\Architecture_Client_Serveur\API\Model\bin\Debug\Model.dll
+D:\cours B3\Architecture_Client_Serveur\API\Model\bin\Debug\Model.pdb
+D:\cours B3\Architecture_Client_Serveur\API\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\cours B3\Architecture_Client_Serveur\API\Model\obj\Debug\Model.dll
+D:\cours B3\Architecture_Client_Serveur\API\Model\obj\Debug\Model.pdb
